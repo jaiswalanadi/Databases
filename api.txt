@@ -1,0 +1,40 @@
+#1
+- APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols.
+- For example, the weather bureau's software system contains daily weather data. The weather app on your phone “talks” to this system via APIs and     shows you daily weather updates on your phone.
+
+#2
+
+Advantages:
+
+- Applications: Access to APIs ensures more flexibility in information-transfer processes.
+- Reach: APIs let you create layers in apps in order to distribute information to different audiences.
+- Customization: Furthermore, it can serve as a solution to create different experiences for users, letting protocols, functions, and commands be       adapted according to specific demands.
+- Efficiency: When you have content that is automatically published and made available on different channels simultaneously, APIs allow for more       efficient data distribution.
+- Adaptability: One of the greatest benefits of APIs is the ability it has to adapt to changes through data migration and flexibility of services.
+
+Disadvantages:
+
+- As a single point of entry, an API is a gateway and can become a hacker's primary target. Once the API is compromised, all other applications and     systems become vulnerable.
+
+#3
+
+Web API:
+
+- API stands for Application Programming Interface.
+- A Web API is an application programming interface for the Web.
+- A Browser API can extend the functionality of a web browser.
+- A Server API can extend the functionality of a web server.
+
+- Both APIs and web services are technologies that enable the transfer of data between separate software applications. API is an interface that         exposes an application's data to outside software, whereas web applications are one type of API with stricter requirements.
+
+#4
+
+- REST is a set of guidelines that offers flexible implementation, whereas SOAP is a protocol with specific requirements like XML messaging. REST       APIs are lightweight, making them ideal for newer contexts like the Internet of Things (IoT), mobile application development, and serverless         computing.
+
+Shortcomings of SOAP:
+
+- As SOAP can only transfer messages as XML files, your SOAP API will be less performant, as XML is a verbose format compared to JSON. API calls made   to your server will need more bandwidth and it will take more time to process the request and transfer the response back to the client.
+
+#5
+
+- While SOAP and REST share similarities over the HTTP protocol, SOAP is a more rigid set of messaging patterns than REST. The rules in SOAP are       important because we can't achieve any level of standardization without them. REST as an architecture style does not require processing and is       naturally more flexible.
